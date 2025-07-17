@@ -6,7 +6,7 @@ namespace TestPrj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!!! KKKKRRRRR");
+            Console.WriteLine("Test Program");
             // TTTTEEEESSSSTTTTT
         }
     }
